@@ -1,0 +1,103 @@
+Forklaring: Q = Spørsmål, AF = alternativ formulering og A = svar. 
+
+Q: Hva er fristen på innsending av merverdiavgift?
+A: 
+
+Q: Hva er merverdiavgift (MVA)?
+A: 
+
+Q: Hva er fristen på innsending av skattemelding?
+A: 
+
+Q: Hva er fristen for årsoppgjør?
+A: 
+
+Q: Hvordan registrerer jeg et enkeltpersonforetak?
+A: 
+
+Q: Hvordan søker jeg om serveringsbevilling?
+A: 
+
+Q: Hvordan er søknad for etableringsprøve?
+A: 
+
+Q: Hvordan søker jeg om registrering av mva?
+AF: Hvordan registrerer jeg MVA?
+AF: Hvordan registrerer jeg merverdiavgift?
+A: 
+
+Q: Hvordan utføres omsetningsoppgaven for alkohol?
+A: 
+
+Q: Hva er fristen for å levere A-meldingen?
+A: 
+
+Q: Hva er timepris for bokføring?
+A: 1100kr eks mva
+
+Q: Hva er pris for registrering av enkeltpresonsforetak?
+A: 2000 eks MVA
+
+Q: Hva er pris for registrering av aksjeselskap?
+A: 3500 eks MVA
+
+Q: Hva er prisen på årsoppgjør for EPF og Aksje selskap?
+A: 
+
+Q: Hva er forskjellen mellom regnskapsføring og revisjon?
+A: 
+
+Q: Har alle regnskapsplikt?
+A: 
+
+Q: Hva er bokføringsplikt?
+A:
+
+Q: Kan jeg trekke fra hjemmekontor på skatten?
+A:
+
+Q: Hva er forskjellen på en balanse og et resultatregnskap?
+A:
+
+Q: Hvordan beregner jeg skatt for mitt enkeltpersonforetak?
+A:
+
+Q: Er det obligatorisk med revisor?
+A:
+
+Q: Hva er åpningstidene deres?
+AF: Kan du gi meg informasjon om når regnskapsfirmaet er tilgjengelig for henvendelser?
+AF: Når er regnskapsfirmaet tilgjengelig for henvendelser?
+AF: Når kan jeg kontakte regnskapsfirmaet deres?
+AF: Hvilke tidspunkter kan jeg få tak i dere?
+AF: Når kan jeg kontakte dere?
+A:
+
+Q: Tilbyr dere bistand med selvangivelsen?
+A:
+
+Q: Kan dere hjelpe til med lønnstjenester?
+A:
+
+Q: Hvor er kontoret deres lokalisert?
+A:
+
+Q: Tilbyr dere rådgivning for småbedrifter?
+A:
+
+Q: Hvordan kan jeg bestille en konsultasjon?
+AF: Hvordan kan jeg bestille et møte?
+AF: Hvordan kan vi atvale et møte?
+AF: Kan vi møtes?
+A:
+
+Q: Er dere erfarne med internasjonal skatterådgivning?
+A:
+
+Q: Tilbyr dere digitale regnskapstjenester?
+A:
+
+Q: Hvilke tjenester tilbyr deres firma?
+AF: Hva kan dere hjelpe med?
+AF: Hva kan dere hjelpe meg med?
+A: 
